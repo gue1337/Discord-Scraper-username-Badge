@@ -81,4 +81,6 @@ This project is open-source under the **MIT License**, allowing free use and mod
 ---
 
 ⭐ **If you find this tool useful, consider starring the repository on GitHub!**
+![1](images/image.png)
+![2](images/image2.png)
 
