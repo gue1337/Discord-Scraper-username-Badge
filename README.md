@@ -72,8 +72,8 @@ node scrapper.js
 
 🔹 **Developer:** Gue1337\
 🔹 **GitHub:** [@Gue1337](https://github.com/gue1337)\
-🔹 **Project Repo:** [Discord Bot Scraper](https://github.com/gue1337/discord-bot-scraper)\
-🔹 **Discord Contact:** fzrawy
+🔹 **Project Repo:** [Discord Bot Scraper](https://github.com/gue1337/Discord-Scraper-username-Badge)\
+🔹 **Discord:** fzrawy
 
 ## 📝 License
 
